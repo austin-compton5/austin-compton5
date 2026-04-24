@@ -1,6 +1,6 @@
 # Hello!
 
-## I'm an AI Implementation Engineer working to close the gap between demos and building production AI systems under real constraints.
+## I'm an AI Implementation Engineer that builds production AI systems under real constraints.
 
 ## What I've built
 
@@ -26,7 +26,6 @@ Entra ID · Key Vault · Docker · FastAPI · RAG · Pydantic
 
 ## Interested in
 
-Production AI deployment and forward deployed engineering —
-the gap between demos and systems that actually ship.
+Forward Deployed and AI Implemenation roles focused on closing the gap between demos and systems that actually ship.
 
 💼 linkedin.com/in/austin-compton-7380a4203
