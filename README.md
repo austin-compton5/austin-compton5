@@ -24,6 +24,6 @@ Entra ID · Key Vault · Docker · FastAPI · RAG · Pydantic
 
 ## Interested in
 
-Forward Deployed and AI Implemenation roles focused on closing the gap between demos and systems that actually ship.
+Forward Deployed and AI Implementation roles focused on closing the gap between demos and systems that actually ship.
 
 💼 linkedin.com/in/austin-compton-7380a4203
