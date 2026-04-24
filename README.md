@@ -1,6 +1,6 @@
-## Hello!
+# Hello!
 
-# I'm an AI Implementation Engineer interested in building production AI systems under real constraints.
+## I'm an AI Implementation Engineer working to close the gap between demos and building production AI systems under real constraints.
 
 ## What I've built
 
