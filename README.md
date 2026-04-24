@@ -5,9 +5,7 @@
 ## What I've built
 
 - **Production LangGraph agent** — agentic service request workflow deployed on Azure Government Cloud with Entra ID, 
-Key Vault, and Container Apps.
-
-Minimal working example of the approach I used here: https://weather-agent.agreeablesea-0e87a2c6.eastus.azurecontainerapps.io
+Key Vault, and Container Apps. Minimal working example of the approach I used here: https://weather-agent.agreeablesea-0e87a2c6.eastus.azurecontainerapps.io
 
 - **AI document pipeline** — automated transcription and structured output generation using the Google Gemini API, Fast API, and Pydantic to summarize meeting minutes in the official format.
 
