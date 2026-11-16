@@ -1,29 +1,32 @@
-# Hello!
+# Hi, I'm Austin Compton
 
-## I'm an AI Implementation Engineer that builds production AI systems under real constraints.
+I'm an applied AI engineer in local government. I spent the last year prototyping, building, and deploying my city's first internally developed AI agent.
 
-## What I've built
+## What it does
 
-- **Production LangGraph agent** — agentic service request workflow deployed on Azure with Entra ID, 
-Key Vault, and Container Apps. Minimal working example of the approach I used here: https://weather-agent.agreeablesea-0e87a2c6.eastus.azurecontainerapps.io
+**Streamlines facilities service requests.** City staff used to copy facilities requests from one system into another by hand, which took hours of data entry. Now employees describe their problem in plain language. A LangGraph agent, integrated with the city's asset management system, asks follow-up questions until it has enough detail, categorizes the request, checks whether it's an emergency, assigns a priority, and creates the request directly in the system.
 
-- **AI document pipeline** — automated transcription and structured output generation using the Google Gemini API, Fast API, and Pydantic to summarize meeting minutes in the official format.
+- ~300 staff use it across every city department
+- 20–30 requests a day, filed at least twice as fast
+- $500,000 in vendor procurement avoided
 
-Find it here: https://github.com/austin-compton5/Ai-Powered-Minutes-Generator
+## How I built it
 
-## What I'm learning Now. 
-- Building automated structured evaluations testing the reliability of AI systems.
-- Reliable architectures for multi-agent orchestration
-- Mapping models to practical tasks outside of typical model benchmarks.
-- Implementing sandboxing and long-horizon harnesses using the agents SDK to enable more autonomous workflows.
+**Made for a government environment.** I deployed it on Azure Government Cloud, with Entra ID SSO for sign-in, Key Vault for secrets, and Container Apps to run it.
 
-## Stack
+**Stack:** Python · LangGraph · LangChain · FastAPI · Pydantic · Docker · PostgreSQL · Azure Government · Entra ID · Key Vault · Container Apps
 
-Python · LangGraph · LangChain · Azure Government Cloud · 
-Entra ID · Key Vault · Docker · FastAPI · RAG · Pydantic
+The code belongs to the city and isn't public. A write-up on what I learned is coming soon!
 
-## Interested in
+## How I work
 
-Forward Deployed and AI Implementation roles focused on closing the gap between demos and systems that actually ship.
+- **Why before how:** Connecting with folks, understanding their workflow, and translating their requirements into features that ship.
+- **Responsible AI adoption:** Understanding compliance and security, and implementing observability.
+- **Explaining the work:** Presenting solutions to executives, being present in the community, and listening to feedback.
 
-💼 linkedin.com/in/austin-compton-7380a4203
+## What I'm looking for
+
+Forward deployed and applied AI roles where the job is getting AI systems past the demo and into daily use.
+
+[LinkedIn](https://linkedin.com/in/austin-compton-7380a4203)
+
